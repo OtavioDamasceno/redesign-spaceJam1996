@@ -22,3 +22,5 @@ Este projeto traz uma **versão redesenhada**, mantendo a **identidade vintage**
 - Estrutura de código limpa e modular 💻  
 
 
+![image alt](https://github.com/OtavioDamasceno/redesign-spaceJam1996/blob/d4c7f6f25c5f17b34789a2b181acaaf7d6ab580e/image.png)
+
